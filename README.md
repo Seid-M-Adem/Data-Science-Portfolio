@@ -26,6 +26,7 @@ I am a data scientist with a Master's degree in Epidemiology from the University
 - **Tools**: Python, Pandas, Matplotlib, Seaborn
 - **Key Skills**: Data cleaning, data visualization, statistical analysis
 - [Link to Project](./Project_1_Exploratory_Data_Analysis)
+# [![IBM Digital Badge]([https://badges.ibm.com/badge_image_url)](https://your.badge.verification.link](https://www.credly.com/badges/99abc1d5-c727-4409-ab23-33312e849789))
 
 ### Project 2: Machine Learning Model
 
