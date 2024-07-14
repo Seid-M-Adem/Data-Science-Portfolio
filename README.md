@@ -1,6 +1,6 @@
 # Data Scientist
 
-Welcome to my Data Science Portfolio! It showcases various projects and code examples that demonstrate my skills and experience in data science, machine learning, data visualization, and more. Each project is contained within its own directory and includes a detailed README file explaining the project, the data used, and the results achieved.
+Welcome to my Data Science Portfolio! It showcases various projects and code examples that demonstrate my skills and experience in data science, machine learning, data visualization, and more. Each project is contained within its own directory and includes a detailed file explaining the project, the data used, and the results achieved.
 
 **Location:** Basel, Switzerland  
 **Contact:** [seid.adem@gmx.ch](mailto:seid.adem@gmx.ch)  
@@ -74,7 +74,7 @@ I am a data scientist with a Master's degree in Epidemiology from the University
 _Nov 2020 - Present_
 
 ### ISS Facility Services AG for FMI, Basel
-### By Friedrich Miescher Institute for Biomedical Research
+**By Friedrich Miescher Institute for Biomedical Research**
 **Lab Services**  
 _Feb 2020 - Present_
 
