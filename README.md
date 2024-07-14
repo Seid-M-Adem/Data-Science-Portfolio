@@ -1,4 +1,4 @@
-# Seid Adem - Data Scientist
+# Data Scientist
 
 **Location:** Basel, Switzerland  
 **Contact:** [seid.adem@gmx.ch](mailto:seid.adem@gmx.ch)  
