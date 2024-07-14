@@ -72,26 +72,26 @@ I am a data scientist with a Master's degree in Epidemiology from the University
 [HealthEPI.com](https://healthepi.com)  
 _Nov 2020 - Present_
 
-### ISS Facility Services AG, **By FMI Friedrich Miescher Institute for Biomedical Research**
-**Lab Services**, **Basel**
+- ### ISS Facility Services AG, **By FMI Friedrich Miescher Institute for Biomedical Research**
+ **Lab Services**, **Basel**
 
-_Feb 2020 - Present_
+ _Feb 2020 - Present_
 
-### Fachhochschule Nordwestschweiz, Muttenz
-**Research Assistant**  
-_Jul 2017 - Mar 2018_
+- ### Fachhochschule Nordwestschweiz, Muttenz
+ **Research Assistant**  
+ _Jul 2017 - Mar 2018_
 
-### Swiss Tropical and Public Health Institute, Basel
-**Master's Thesis Project**  
-_Jan 2015 - Jan 2016_
+- ### Swiss Tropical and Public Health Institute, Basel
+ **Master's Thesis Project**  
+ _Jan 2015 - Jan 2016_
 
-### Legambo District Health Office, Ethiopia
-**Healthcare Program Coordinator**  
-_Jun 2009 - Jul 2013_
+- ### Legambo District Health Office, Ethiopia
+ **Healthcare Program Coordinator**  
+ _Jun 2009 - Jul 2013_
 
-### Mandurah District Health Office, Ethiopia
-**Junior Hygiene & Environmental Health Expert**  
-_Oct 2006 - 2009_
+- ### Mandurah District Health Office, Ethiopia
+ **Junior Hygiene & Environmental Health Expert**  
+ _Oct 2006 - 2009_
 
 
 
