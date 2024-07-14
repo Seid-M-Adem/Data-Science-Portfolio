@@ -74,8 +74,8 @@ I am a data scientist with a Master's degree in Epidemiology from the University
 _Nov 2020 - Present_
 
 ### ISS Facility Services AG for FMI, Basel
+### Lab Services
 **By Friedrich Miescher Institute for Biomedical Research**
-**Lab Services**  
 _Feb 2020 - Present_
 
 ### Fachhochschule Nordwestschweiz, Muttenz
