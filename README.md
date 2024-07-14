@@ -14,7 +14,6 @@ Welcome to my Data Science Portfolio! It showcases various projects and code exa
 - [Education](#education)
 - [Technologies Used](#technologies-used)
 - [Projects](#projects)
-- [Certifications](#certifications)
 - [Work Experience](#work-experience)
 - [Contact](#contact)
 
@@ -73,10 +72,9 @@ I am a data scientist with a Master's degree in Epidemiology from the University
 [HealthEPI.com](https://healthepi.com)  
 _Nov 2020 - Present_
 
-### ISS Facility Services AG for FMI, Basel
-### By Friedrich Miescher Institute for Biomedical Research
-**Lab Services**
-
+### ISS Facility Services AG
+### By FMI Friedrich Miescher Institute for Biomedical Research
+**Lab Services**, **Basel**
 _Feb 2020 - Present_
 
 ### Fachhochschule Nordwestschweiz, Muttenz
