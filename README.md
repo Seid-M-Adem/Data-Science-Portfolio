@@ -13,9 +13,7 @@ Welcome to my Data Science Portfolio! It showcases various projects and code exa
 - [Professional Skills](#professional-skills)
 - [Education](#education)
 - [Technologies Used](#technologies-used)
-- [Personal Projects](#personal-projects)
 - [Projects](#projects)
-
 - [Certifications](#certifications)
 - [Work Experience](#work-experience)
 - [Contact](#contact)
@@ -34,8 +32,8 @@ I am a data scientist with a Master's degree in Epidemiology from the University
 
 ## Education
 
-- **IBM Data Science** | [IBM Digital Badge](https://www.credly.com/badges/99abc1d5-c727-4409-ab23-33312e849789) | Dec 2023
-- **Data Science** | DataCamp Online | Jan 2023
+- **IBM Data Science** | [IBM](https://www.coursera.org/account/accomplishments/professional-cert/A4BUQYZQD36M) | Dec 2023
+- **Data Science** | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/9a367564a4c3e722a846c7a477888972ebe75033?raw=1) | Jan 2023
 - **MSc in Epidemiology** | University of Basel, Switzerland | Feb 2016
 - **BSc in Environmental Health** | University of Hawassa, Ethiopia | Jul 2006
 
@@ -44,13 +42,6 @@ I am a data scientist with a Master's degree in Epidemiology from the University
 - **Languages:** Python, R, SQL
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, NLTK, SpaCy
 - **Tools:** Jupyter Notebook, Git, GitHub, Anaconda
-
-## Personal Projects
-
-### Health EPI Manager (Part-time)
-[HealthEPI.com](https://healthepi.com)  
-_Nov 2020 - Present_
-- Managed customer order fulfillments and generated data-driven market insights.
 
 ### Projects
 
@@ -78,11 +69,9 @@ _Nov 2020 - Present_
 - **Skills:** Problem definition, data collection, wrangling, EDA, visualization, model development, evaluation, documentation
 - **Credential:** [IBM Digital Badge](https://www.credly.com/badges/99abc1d5-c727-4409-ab23-33312e849789)
 
-### Certifications
-
-- **IBM Data Science Professional Certificate** [Credentials](https://www.coursera.org/account/accomplishments/professional-cert/A4BUQYZQD36M)
-- **Master's Degree in Epidemiology - University of Basel**
-## Work Experience
+### Health EPI Manager (Part-time)
+[HealthEPI.com](https://healthepi.com)  
+_ Nov 2020 - Present_
 
 ### ISS Facility Services AG, Basel
 ###Friedrich Miescher Institute for Biomedical Research
