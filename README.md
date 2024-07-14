@@ -32,8 +32,8 @@ I am a data scientist with a Master's degree in Epidemiology from the University
 
 ## Education
 
-- **IBM Data Science** | [IBM](https://www.coursera.org/account/accomplishments/professional-cert/A4BUQYZQD36M) | Dec 2023
-- **Data Science** | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/9a367564a4c3e722a846c7a477888972ebe75033?raw=1) | Jan 2023
+- **IBM Data Science**| [IBM](https://www.coursera.org/account/accomplishments/professional-cert/A4BUQYZQD36M) | Dec 2023
+- **Data Science**    | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/9a367564a4c3e722a846c7a477888972ebe75033?raw=1)| Jan 2023
 - **MSc in Epidemiology** | University of Basel, Switzerland | Feb 2016
 - **BSc in Environmental Health** | University of Hawassa, Ethiopia | Jul 2006
 
@@ -71,16 +71,16 @@ I am a data scientist with a Master's degree in Epidemiology from the University
 
 ### Health EPI Manager (Part-time)
 [HealthEPI.com](https://healthepi.com)  
-_ Nov 2020 - Present_
+_Nov 2020 - Present_
 
 ### ISS Facility Services AG, Basel
 ###Friedrich Miescher Institute for Biomedical Research
 **Lab Services**  
-_ Feb 2020 - Present_
+_Feb 2020 - Present_
 
 ### Fachhochschule Nordwestschweiz, Muttenz
 **Research Assistant**  
-_ Jul 2017 - Mar 2018_
+_Jul 2017 - Mar 2018_
 
 ### Swiss Tropical and Public Health Institute, Basel
 **Master's Thesis Project**  
@@ -88,11 +88,11 @@ _Jan 2015 - Jan 2016_
 
 ### Legambo District Health Office, Ethiopia
 **Healthcare Program Coordinator**  
-_ Jun 2009 - Jul 2013_
+_Jun 2009 - Jul 2013_
 
 ### Mandurah District Health Office, Ethiopia
 **Junior Hygiene & Environmental Health Expert**  
-_ Oct 2006 - 2009_
+_Oct 2006 - 2009_
 
 
 
