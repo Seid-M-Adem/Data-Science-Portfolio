@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Scientist
 
 Welcome to my Data Science Portfolio! This repository showcases various projects and code examples that demonstrate my skills and experience in data science, machine learning, data visualization, and more. Each project is contained within its own directory and includes a detailed README file explaining the project, the data used, and the results achieved.
 
