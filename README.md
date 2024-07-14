@@ -1,12 +1,12 @@
 # Data Scientist
 
-Welcome to my Data Science Portfolio! It showcases various projects and code examples that demonstrate my skills and experience in data science, machine learning, data visualization, and more. Each project is contained within its own directory and includes a detailed file explaining the project, the data used, and the results achieved.
-
 **Location:** Basel, Switzerland  
 **Contact:** [seid.adem@gmx.ch](mailto:seid.adem@gmx.ch)  
 **LinkedIn:** [Seid Adem](https://www.linkedin.com/in/seid-adem/)  
 **GitHub:** [Seid-M-Adem](https://github.com/Seid-M-Adem)  
 **Credly Badges:** [Seid Adem's Badges](https://www.credly.com/users/seid-adem.78176190/badges)
+
+Welcome to my Data Science Portfolio! It showcases various projects and code examples that demonstrate my skills and experience in data science, machine learning, data visualization, and more. Each project is contained within its own directory and includes a detailed file explaining the project, the data used, and the results achieved.
 
 ## Table of Contents
 - [About Me](#about-me)
