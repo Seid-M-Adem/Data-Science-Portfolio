@@ -11,12 +11,13 @@ Welcome to my Data Science Portfolio! It showcases various projects and code exa
 ## Table of Contents
 - [About Me](#about-me)
 - [Professional Skills](#professional-skills)
-- [Work Experience](#work-experience)
 - [Education](#education)
+- [Technologies Used](#technologies-used)
 - [Personal Projects](#personal-projects)
 - [Projects](#projects)
-  - [Technologies Used](#technologies-used)
-  - [Certifications](#certifications)
+
+- [Certifications](#certifications)
+- [Work Experience](#work-experience)
 - [Contact](#contact)
 
 ### About Me
@@ -24,44 +25,25 @@ Welcome to my Data Science Portfolio! It showcases various projects and code exa
 I am a data scientist with a Master's degree in Epidemiology from the University of Basel and an IBM Data Science Professional Certificate. My passion lies in uncovering insights from data and building predictive models. My expertise includes statistical analysis, machine learning, data visualization, and more.
 
 ## Professional Skills
+
 - **Data Analysis & Visualization:** Proficient in analyzing complex datasets and creating compelling visualizations using Python, R, and SQL.
 - **Machine Learning:** Experienced in applying machine learning algorithms to solve real-world problems.
 - **Epidemiology:** Solid understanding of study design and analysis in epidemiology.
 - **Problem Solving & Communication:** Strong skills in identifying challenges, developing solutions, and presenting findings effectively.
 
-## Work Experience
-
-### ISS Facility Services AG, Basel
-**Lab Services** by Friedrich Miescher Institute for Biomedical Research 
-_Feb 2020 - Present_
-- Delivered excellent customer service and maintained professionalism.
-- Stayed calm and effective in stressful situations.
-
-### Fachhochschule Nordwestschweiz, Muttenz
-**Research Assistant**  
-_Jul 2017 - Mar 2018_
-- Developed multivariate regression models and prepared comprehensive reports.
-
-### Swiss Tropical and Public Health Institute, Basel
-**Master's Thesis Project**  
-_Jan 2015 - Jan 2016_
-- Contributed to three publications through the thesis project.
-
-### Legambo District Health Office, Ethiopia
-**Healthcare Program Coordinator**  
-_Jun 2009 - Jul 2013_
-- Coordinated healthcare services across 45 facilities and improved operations.
-
-### Mandurah District Health Office, Ethiopia
-**Junior Hygiene & Environmental Health Expert**  
-_Oct 2006 - 2009_
-- Promoted health and prevented diseases according to guidelines.
 
 ## Education
-- **IBM Data Science** | Coursera Online | Dec 2023
+
+- **IBM Data Science** | [IBM Digital Badge](https://www.credly.com/badges/99abc1d5-c727-4409-ab23-33312e849789) | Dec 2023
 - **Data Science** | DataCamp Online | Jan 2023
 - **MSc in Epidemiology** | University of Basel, Switzerland | Feb 2016
 - **BSc in Environmental Health** | University of Hawassa, Ethiopia | Jul 2006
+
+### Technologies Used
+
+- **Languages:** Python, R, SQL
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, NLTK, SpaCy
+- **Tools:** Jupyter Notebook, Git, GitHub, Anaconda
 
 ## Personal Projects
 
@@ -96,16 +78,34 @@ _Nov 2020 - Present_
 - **Skills:** Problem definition, data collection, wrangling, EDA, visualization, model development, evaluation, documentation
 - **Credential:** [IBM Digital Badge](https://www.credly.com/badges/99abc1d5-c727-4409-ab23-33312e849789)
 
-### Technologies Used
-
-- **Languages:** Python, R, SQL
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, NLTK, SpaCy
-- **Tools:** Jupyter Notebook, Git, GitHub, Anaconda
-
 ### Certifications
 
 - **IBM Data Science Professional Certificate** [Credentials](https://www.coursera.org/account/accomplishments/professional-cert/A4BUQYZQD36M)
 - **Master's Degree in Epidemiology - University of Basel**
+## Work Experience
+
+### ISS Facility Services AG, Basel
+###Friedrich Miescher Institute for Biomedical Research
+**Lab Services**  
+_ Feb 2020 - Present_
+
+### Fachhochschule Nordwestschweiz, Muttenz
+**Research Assistant**  
+_ Jul 2017 - Mar 2018_
+
+### Swiss Tropical and Public Health Institute, Basel
+**Master's Thesis Project**  
+_Jan 2015 - Jan 2016_
+
+### Legambo District Health Office, Ethiopia
+**Healthcare Program Coordinator**  
+_ Jun 2009 - Jul 2013_
+
+### Mandurah District Health Office, Ethiopia
+**Junior Hygiene & Environmental Health Expert**  
+_ Oct 2006 - 2009_
+
+
 
 ## Contact
 
