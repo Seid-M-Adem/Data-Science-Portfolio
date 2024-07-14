@@ -76,6 +76,7 @@ _Nov 2020 - Present_
 ### ISS Facility Services AG for FMI, Basel
 ### By Friedrich Miescher Institute for Biomedical Research
 **Lab Services**
+
 _Feb 2020 - Present_
 
 ### Fachhochschule Nordwestschweiz, Muttenz
